@@ -40,13 +40,15 @@ The 2.9 inch ePaper Breakout Board is a specialized expansion board designed for
 
 This section provides a detailed overview of the various components and interfaces on the 2.9 inch ePaper Breakout Board.
 
-![](https://raw.githubusercontent.com/Longan-Labs/ePaper213/main/images/hw.jpg)
+![](https://raw.githubusercontent.com/Longan-Labs/ePaper029/main/images/hw.png)
 
 - **1. 40-pin Header for Raspberry Pi**: For connecting a Raspberry Pi.
-- **2. 20-pin FPC Conncctor**: For the 2.9 inch ePaper.
-- **3. User Button**: For implementing various custom functions.
-- **4. 4-pin Grove Connector**: For connecting other Grove modules or devices.
-- **5. XIAO Socket**: For connecting the Seeed Studio XIAO development board.
+- **2. XIAO Socket**: For connecting the Seeed Studio XIAO development board.
+- **3. User Button1**: For implementing various custom functions.
+- **4. User Button2**: For implementing various custom functions.
+- **5. 4-pin Grove Connector/I2C**: For connecting other Grove modules or devices.
+- **6. 4-pin Grove Connector/UART**: For connecting other Grove modules or devices.
+- **7. 20-pin FPC Conncctor**: For the 2.9 inch ePaper.
 
 ### Pin Defines
 
